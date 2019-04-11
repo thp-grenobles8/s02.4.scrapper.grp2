@@ -1,5 +1,7 @@
 Bonjour, bonjour !
 
+Voici le projet de Tristan MORIN
+
 Bienvenue dans mon dossier Scrappeur3.0
 
 Vous trouverez un premier scrappeur de cryptomonnaie qui vous ressort un hash des cryptomonnaies (clé + valeur)
